@@ -41,20 +41,3 @@ If you use this code, please cite:
 }
 License
 MIT License - see LICENSE file
-
-### Command Line Upload Instructions
-```bash
-# Clone your repository
-git clone https://github.com/KarmirisP/sparc-yukawa-gravity.git
-cd sparc-yukawa-gravity
-
-# Copy your files into this directory
-
-# Add all files
-git add .
-
-# Commit with message
-git commit -m "Initial upload of SPARC galaxy analysis code"
-
-# Push to GitHub
-git push origin main
